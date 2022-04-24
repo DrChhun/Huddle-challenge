@@ -41,6 +41,10 @@
     height: 20vh;
 }
 
+.error__input {
+    display: none;
+}
+
 @media (max-width: 660px) {
     .main {
         padding: 0;
